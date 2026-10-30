@@ -54,3 +54,8 @@ composer test
 - PHP 8.3+
 - SQLite
 - Blade, Tailwind CSS, and Vite
+
+## ACCOUNT
+
+- username: nurse.dillo@bakuna.test
+- password: bakuna2026
