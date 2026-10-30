@@ -1,4 +1,4 @@
 ## ACCOUNT
 
-EMAIL: nurse.dillo@bakune.com
+EMAIL: nurse.dillo@bakuna.com
 PASS:  bakuna2026
