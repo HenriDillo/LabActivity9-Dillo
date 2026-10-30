@@ -7,7 +7,7 @@ abstract class Controller
 {
     public function index()
     {
-        $title = 'Bakuna Tracker – Purok Lastname';
+        $title = 'Bakuna Tracker – Purok Dillo';
         $schedules = Vaccination::orderBy('scheduled_at')->get();
         $stats = [
             ['label' => 'Total', 'value' => $schedules->count()],
